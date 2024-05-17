@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Rizki",
+        "umur": 32,
+        "hobby": [
+            "makan",
+            "tidur"
+        ],
+        "mapel": {
+            "mapel1": "AIJ",
+            "mapel2": "TKJ"
+        }
+    },
+    {
+        "nama": "Jattu",
+        "umur": 25,
+        "hobby": [
+            "baca",
+            "renang"
+        ],
+        "mapel": {
+            "mapel1": "ASJ",
+            "mapel2": "TEKWAN"
+        }
+    }
+]
